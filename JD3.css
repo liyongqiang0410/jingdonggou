@@ -1,0 +1,137 @@
+.grid_d1 {
+	width: 1190px;
+	height: 480px;
+	margin: auto;
+	/*overflow: hidden;*/
+}
+.grid_d1>div:last-child {
+	margin-right: 0;
+}
+.grid_d1>div:nth-child(1)>div>a>h3 {
+	display: inline-block;
+	width: 60px;
+} 
+.grid_d1>div:nth-child(1)>div>a>span {
+	display: inline-block;
+	width: 60px;
+} 
+.grid_d1>div:nth-child(2)>div>a>h3 {
+	display: inline-block;
+	width: 88px;
+} 
+.grid_d1>div:nth-child(2)>div>a>span {
+	display: inline-block;
+	width: 90px;
+    height: 20px;
+    position: relative;
+    line-height: 20px;
+    top: -2px;
+    text-align: center;
+    display: inline-block;
+} 
+.grid_d1>div:nth-child(3)>div>a>h3 {
+	display: inline-block;
+	width: 44px;
+} 
+.grid_d1_inner {
+	width: 390px;
+	height: 450px;
+	margin-right: 5px;
+	overflow: hidden;
+	background-color: #fff;
+	display: inline-block;
+}
+.grid_d1_inner1 {
+	width: 390px;
+	height: 355px;
+	margin-left: 20px;
+	overflow: hidden;
+}
+.grid_d1_inner2 {
+	width: 390px;
+	height: 378px;
+}
+.grid_d1_inner3 {
+	width: 390px;
+	height: 370px;
+}
+.mime_item_name {
+	display:block;
+	width: 350px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;
+	color: #4F4F4F;
+	text-align: center;
+}
+.grid_d1_inner1>p:last-child {
+	width: 350px;
+	height: 40px;
+	display: inline-block;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	position: absolute;
+	color: #999999;
+	line-height: 40px;
+	text-align: center;
+	font-size: 14px;
+}
+.grid_d1_inner2 {
+	width: 390px;
+	height: 378px;
+	overflow: hidden;
+}
+.grid_d1_inner2_in {
+	margin-top: 10px;
+	width: 365px;
+	height: 384px;
+	margin: auto;
+}
+.grid_d1_inner2>div>a {
+	display: inline-block;
+	/*overflow: hidden;*/
+	margin-top: 10px;
+	margin: auto;
+	width: 180px;
+	height: 184px;
+} 
+.grid_d1_inner2>div>a>img {
+	display: block;
+	margin: auto;
+}
+.grid_d1_inner2_in span {
+	display:block;
+	width: 180px;
+	height: 16px;
+	margin-top: 20px;
+	text-align: center;
+	line-height: 16px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	position: absolute;
+}
+.B {
+	margin-top: 20px;
+}
+.grid_d1_inner3 {
+	width: 390px;
+	height: 370px;
+}
+
+.grid_d1_inner2_in>a>span:last-child {
+	margin-top: 42px;
+}
+.grid_d1_inner3_in1 {
+	width: 350px;
+	height: 250px;
+	margin: auto;
+}
+.grid_d1_inner3_in2 {
+	width: 360px;
+	height: 110px;
+	margin: auto;
+}
+.grid_d1_inner3_in2>img:nth-child(2) {
+	margin: 0 10px;
+}
